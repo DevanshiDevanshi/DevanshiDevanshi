@@ -1,4 +1,4 @@
-### Hi there! 👋 My name is Devanshi 
+<h1>Hi there! 👋 My name is Devanshi </h1> 
 <!--
 **DevanshiDevanshi/DevanshiDevanshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
  ---
 
-<h1> Skills : </h1>
+<h2> Skills : </h2>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -36,6 +36,6 @@ Here are some ideas to get you started:
 </div>
 
 <div>
-<h1> My GitHub Stats </h1>
+<h2> My GitHub Stats </h2>
  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=devanshidevanshi" alt="GitHub Streak" /></a>
 </div>
