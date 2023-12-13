@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌍 I'm based in Toronto, Ontario
-🔭 I’m currently working on React Js
-👯 I'm open to collaborating on most things! Especially exciting open source stuff
-✉️ You can contact me at devanshid2036@gmail.com
-🌱f you need me, I'll be off building something. (Good odds I could be playing Guitar, Meditating, or out on a walk in Nature, too.)
+🌍 I'm based in Toronto, Ontario <br />
+🔭 I’m currently working on React Js<br />
+👯 I'm open to collaborating on most things! Especially exciting open source stuff<br />
+✉️ You can contact me at devanshid2036@gmail.com<br />
+🌱f you need me, I'll be off building something. (Good odds I could be playing Guitar, Meditating, or out on a walk in Nature, too.)<br />
