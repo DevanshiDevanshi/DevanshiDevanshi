@@ -36,6 +36,6 @@ Here are some ideas to get you started:
 </div>
 
 <div>
- My Stats :
+<h1> My GitHub Stats </h1>
  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=devanshidevanshi" alt="GitHub Streak" /></a>
 </div>
